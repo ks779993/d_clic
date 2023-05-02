@@ -1,0 +1,133 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+.ute{
+    text-align: center;
+    margin-top: 15px;
+}
+.ert{
+   margin-left: 480px;
+    background-color: yellow;
+    width: 180px;
+    height: 10px;
+}
+.OTA{
+    margin-left: 480px;
+    background-color: yellow;
+    width: 150px;
+    height: 10px; 
+}
+.opa{
+    display: flex;
+    gap: 100px;
+    margin-left: 123px;
+    padding-top: 50px;
+}
+.UTA{
+    margin-left: 430px;
+    background-color: yellow;
+    width: 250px;
+    height: 10px;  
+}
+.yout{
+    background-color: rgb(172, 224, 248);
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-style: italic;
+    gap: 100px;
+}
+.ODE{
+    margin-left: 460px;
+    background-color: yellow;
+    width: 150px;
+    height: 10px;   
+}
+.cuo{
+    background-color: rgb(172, 224, 248); 
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+.diff{
+    background-color: white;
+    width: 300px;
+    height: 500PX;
+    margin-top: 50px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.diff label{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.diff button{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.foot{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    
+}
+.opr{
+    margin-top: 450px;
+    margin-left: 100px;
+}
+.bot{
+    margin-left: 200px;
+    color: white;
+    margin-top: 50px;
+}
+.tyu{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+header{
+    position: sticky;
+    top: -120px;
+    z-index: 10;
+    background-color: white;
+}
+@media only screen and (max-width :768px) {
+.responsiveImg{
+   width: 150px;
+}
+.responsiveImg2{
+    width: 450px;
+    height: 200px;
+}
+.navbar{
+    flex-direction: column;
+    justify-content: center;
+}
+.ert{
+    margin-left: 90px;
+}
+.uo{
+justify-content: center;
+}
+/* .responsiveImg3{
+    width: 150px;
+    height: 150px;
+} */
+.OTA{
+    margin-left: 90px;
+}
+/* .responsiveImg4{
+    width: 100px;
+    height: 50px;  
+   text-align: center;
+} */
+
+
+}
